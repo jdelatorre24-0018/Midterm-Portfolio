@@ -1,0 +1,21 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b2141"/>
+      <stop offset="1" stop-color="#071022"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" fill="url(#g1)"/>
+  <!-- stylized sun -->
+  <circle cx="200" cy="120" r="60" fill="#f7c948" opacity="0.95"/>
+  <!-- simple ship silhouette -->
+  <g transform="translate(420,160) scale(1.6)">
+    <path d="M-220 60 q80 -40 220 -40 q140 0 220 40 q-60 20 -220 20 q-140 0 -220 -20z" fill="#071022"/>
+    <rect x="-90" y="-80" width="40" height="140" fill="#071022"/>
+    <path d="M-70 -60 q70 -40 160 0 q-60 20 -160 0z" fill="#071022"/>
+  </g>
+  <!-- Title -->
+  <text x="70" y="250" font-family="Georgia, serif" font-size="48" fill="#f7c948">Straw Hat Crew — Midterm Lab Portfolio</text>
+  <text x="70" y="295" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" opacity="0.8">John Michael Dela Torre & Lesther Tongco | ACT-C205</text>
+</svg>
